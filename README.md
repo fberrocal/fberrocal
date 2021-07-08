@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Francisco Berrocal Machado
+- 👀 I’m interested in PHP, Phyton, Java, Javascript, Laravel
+- 🌱 I’m currently learning Javascript and I'm working with Laravel
+- 💞️ I’m looking to collaborate on Web development
+- 📫 How to reach me? my mail is fberrocal73@hotmail.com
